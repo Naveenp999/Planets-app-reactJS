@@ -1,0 +1,17 @@
+.slider-container {
+  max-width: 1000px;
+  padding: 30px;
+}
+.sub {
+  width: 80%;
+  text-align: center;
+}
+.main{
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+  min-height: 100vh;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
